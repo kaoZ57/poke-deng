@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\tantawan\pokedeng\obj\Debug\Tan.Card.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\tantawan\pokedeng\obj\Debug\Tan.Card.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\tantawan\pokedeng\bin\Debug\pokedeng.exe.config
+C:\Users\asus\source\repos\tantawan\pokedeng\bin\Debug\pokedeng.exe
+C:\Users\asus\source\repos\tantawan\pokedeng\bin\Debug\pokedeng.pdb
+C:\Users\asus\source\repos\tantawan\pokedeng\obj\Debug\pokedeng.exe
+C:\Users\asus\source\repos\tantawan\pokedeng\obj\Debug\pokedeng.pdb

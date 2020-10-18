@@ -1,0 +1,2 @@
+C:\Users\asus\source\repos\tantawan\pokedeng\obj\Debug\Deck of Tan.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\tantawan\pokedeng\obj\Debug\Deck of Tan.csprojAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Users\asus\source\repos\tantawan\pokedeng\obj\Debug\Card.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\tantawan\pokedeng\obj\Debug\Card.csproj.CoreCompileInputs.cache

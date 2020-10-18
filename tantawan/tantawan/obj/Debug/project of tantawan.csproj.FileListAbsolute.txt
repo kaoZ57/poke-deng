@@ -1,0 +1,2 @@
+C:\Users\asus\source\repos\tantawan\tantawan\obj\Debug\project of tantawan.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\tantawan\tantawan\obj\Debug\project of tantawan.csprojAssemblyReference.cache
